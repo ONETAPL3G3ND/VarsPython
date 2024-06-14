@@ -1,3 +1,4 @@
+#https://github.com/ONETAPL3G3ND
 class Info:
     def __init__(self):
         self.version = "1.0"
